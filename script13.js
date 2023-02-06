@@ -1,5 +1,0 @@
-let a = 2;
-alert(a ** 10);
-
-let b = 3 * 2 ** 3 * 1;
-alert(b);
