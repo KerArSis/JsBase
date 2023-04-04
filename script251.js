@@ -3,6 +3,7 @@ let button = document.querySelector('#elem');
 let button1 = document.querySelector('#switching');
 
 console.log(elem.id);   
+
 console.log(elem.type);
 
 
